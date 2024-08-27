@@ -1,1 +1,3 @@
 ilk commit yazıları
+
+ikinci commit
